@@ -74,8 +74,10 @@ letter-spacing: 1.5px;
     align-items: center;
 }
 .nav .bio{
- font-size: 30px;
- color: white;
- height: auto;
- padding: 10px;
+    position: absolute;
+    top: 10;
+    left: 10;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
 }
